@@ -3,7 +3,7 @@ Cellular automata with competitive AIs.
 
 # Overview
 
-This project was completed for my Advanced Computer Science, Data Structures & Algorithms class. The objective was to create a competitive AI that would eliminate other AIs from the "society". I took inspiration from organic bacteria behaviors and bactericidal agents to create an algorithm (cleverly titled [`BactericAIdal`](src/BactericAIdal.java)) that is very efficient at eliminating other players.
+This project was completed for my Advanced Computer Science, Data Structures & Algorithms class. The objective was to create a competitive AI that would eliminate other AIs from the "society". I took inspiration from organic bacteria behaviors and bactericidal agents to create an algorithm (cleverly titled [`BactericAIdal`](src/BactericAIdal.java)) that is very effective at eliminating other players.
 
 # Objective
 
